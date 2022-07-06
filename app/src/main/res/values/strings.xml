@@ -1,0 +1,19 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Project UAS Nui J Simanjuntak</string>
+    <string name="succes">success</string>
+    <string name="warning">warning</string>
+    <string name="error">error</string>
+    <string name="succes_title">This is succes title</string>
+    <string name="warning_title">This is warning title</string>
+    <string name="error_title">This is error title</string>
+    <string name="dummy_text">Dulu aku berpikir bahwa hidupku adalah sebuah tragedi. Tapi, sekarang aku sadar, ternyata hidupku hanya komedi. --joker</string>
+    <string name="okay">Okay</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+
+    <string name="tab1">Nui Jonggor Simanjuntak</string>
+    <string name="tab2">Marfel Crisly</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631083820709",
+    "firebase_url": "https://crud-project-uas-default-rtdb.firebaseio.com",
+    "project_id": "crud-project-uas",
+    "storage_bucket": "crud-project-uas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631083820709:android:ec248dcac927c4a41f4f4c",
+        "android_client_info": {
+          "package_name": "nui.app.uas_NuiJSimanjuntak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631083820709-f3guv126oiqnvkakh1mgomquge5be8cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXp53eCcADVR7OZodV0p3peQBbwo5zzac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631083820709-f3guv126oiqnvkakh1mgomquge5be8cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

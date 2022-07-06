@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:background="@drawable/bg"
+    tools:context=".AlertActivity">
+
+    <Button
+        android:id="@+id/buttonSucces"
+        android:background="@color/buttonClicked"
+        android:textSize="16sp"
+        android:text="@string/succes"
+        android:textColor="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/buttonWarning"
+        android:background="@color/buttonClicked4"
+        android:textSize="16sp"
+        android:text="@string/warning"
+        android:layout_margin="5dp"
+        android:textColor="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/buttonError"
+        android:background="@color/buttonClicked3"
+        android:textSize="16sp"
+        android:textColor="@color/white"
+        android:text="@string/error"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

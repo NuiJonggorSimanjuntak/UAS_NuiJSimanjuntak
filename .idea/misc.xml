@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/ButtonIcon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/ButtonIcon/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/ButtonIcon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/ButtonIcon/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/ButtonIcon/app/src/main/res/layout/activity_maps.xml" value="0.24635416666666668" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/ctlib/src/main/res/layout/custom_layout.xml" value="0.187109375" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/ctlib/src/main/res/layout/success_layout.xml" value="0.24947916666666667" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/sntoast/src/main/res/layout/toast_layout.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/background_gradient.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/bg1.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/bg_rectangle_button.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/bg_rectangle_edittext.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/button_neutral_background.xml" value="0.1305" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/button_succes_background.xml" value="0.1305" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/buttonstyle.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/buttonstyle2.xml" value="0.2415" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/buttonstyle3.xml" value="0.2415" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/buttonstyle4.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/dialog_background.xml" value="0.1385" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/ic_baseline_android_24.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/ic_delete.xml" value="0.2075" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/ic_edit.xml" value="0.2075" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/shappeedit.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/title_error_background.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/title_succes_background.xml" value="0.1305" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/drawable/title_warning_background.xml" value="0.1305" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/font/example.xml" value="0.13240740740740742" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_alert.xml" value="0.264" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_async_task.xml" value="0.264" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_crud_dbactivity.xml" value="0.264" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_dosen.xml" value="0.15462962962962962" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_edit.xml" value="0.21296296296296297" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_kamera.xml" value="0.24947916666666667" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_kirim_sms.xml" value="0.34210526315789475" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_list_view.xml" value="0.24635416666666668" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_local_dbactivity.xml" value="0.264" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_login.xml" value="0.11944444444444445" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_maps.xml" value="0.14722222222222223" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_matkul.xml" value="0.15462962962962962" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_matkul_detail.xml" value="0.24635416666666668" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_moin.xml" value="0.25" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_networking.xml" value="0.264" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_pesan.xml" value="0.24947916666666667" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_read.xml" value="0.264" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_register.xml" value="0.15462962962962962" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_share_preff.xml" value="0.3498542274052478" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_tab_view.xml" value="0.264" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_tambah.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_tambah_matkul.xml" value="0.15462962962962962" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_tambah_matkul2.xml" value="0.24635416666666668" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_tampil.xml" value="0.24635416666666668" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_toast.xml" value="0.264" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/activity_user.xml" value="0.264" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/content_main.xml" value="0.24947916666666667" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/dialog_update.xml" value="0.24635416666666668" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/fragment_main.xml" value="0.1078125" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/fragment_sign_in.xml" value="0.4" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/fragment_sign_up.xml" value="0.24635416666666668" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/fragment_tab1.xml" value="0.2" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/fragment_tab2.xml" value="0.264" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/item_dosen.xml" value="0.15462962962962962" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/item_matkul.xml" value="0.15462962962962962" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/layout_error_dialog.xml" value="0.18611111111111112" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/layout_success_dialog.xml" value="0.18611111111111112" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/layout_warning_dialog.xml" value="0.18611111111111112" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/list_data_diri.xml" value="0.24635416666666668" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/list_item.xml" value="0.24947916666666667" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/list_row_main.xml" value="0.24635416666666668" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/list_view.xml" value="0.2" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/row_notes.xml" value="0.264" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/toast.xml" value="0.2" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/toast_danger.xml" value="0.2" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/layout/toast_information.xml" value="0.25" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/menu/add_menu.xml" value="0.21296296296296297" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/menu/edit_menu.xml" value="0.21296296296296297" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/app/src/main/res/menu/menu_main.xml" value="0.21296296296296297" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/sntoast/src/main/res/drawable-v24/ic_error.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/sntoast/src/main/res/drawable-v24/ic_information.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/UAS_NuiJSimanjuntak/sntoast/src/main/res/layout/toast_layout.xml" value="0.12037037037037036" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/app/src/main/res/drawable/ic_maps.xml" value="0.1" />
+        <entry key="..\:/MATA KULIAH/ELEARNING/SEMESTER VI/MOBILE PEMROGRAMMING/kodingan/app/src/main/res/layout/activity_main.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

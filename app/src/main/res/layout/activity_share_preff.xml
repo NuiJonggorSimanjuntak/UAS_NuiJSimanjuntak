@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/bg">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="359dp"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="16dp"
+            android:layout_centerInParent="true"
+            android:background="#6BE6E0E0">
+
+            <EditText
+                android:id="@+id/et_input"
+                android:layout_width="297dp"
+                android:layout_height="wrap_content"
+                android:hint="Silakan Isi"
+                android:padding="10dp"
+                android:textColor="@color/white"
+                android:textColorHint="#C3FFFFFF" />
+
+            <ImageView
+                android:id="@+id/btn_save"
+                android:layout_width="24dp"
+                android:layout_height="41dp"
+                android:layout_marginStart="8dp"
+                android:src="@drawable/save" />
+
+            <ImageView
+                android:id="@+id/btn_show"
+                android:layout_width="24dp"
+                android:layout_height="41dp"
+                android:layout_marginStart="8dp"
+                android:src="@drawable/view" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</RelativeLayout>
